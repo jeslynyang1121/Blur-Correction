@@ -1,3 +1,3 @@
 # Blur-Correction
 
-detects and de-blurs images
+different methods to detect and de-blur images
